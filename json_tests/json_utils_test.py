@@ -1,5 +1,4 @@
 import unittest
-
 from json_core.json_utils import JsonUtils
 
 
